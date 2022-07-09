@@ -1,6 +1,6 @@
 # Fortnite Version Archive
 
-If you have other manifests please send them to me on my Discord: **erox#0001**
+If you have other manifests please send them to me on my Discord: **astia#4185**
 # Windows Manifests
 
 |Version|Manifest ID|Download|
